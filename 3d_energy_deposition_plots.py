@@ -1,4 +1,4 @@
-# This thesis shows the energy deposition output of Geant4-DNA both as a 3D scatter plot and a Y, Z plot.
+# This script shows the energy deposition output of Geant4-DNA both as a 3D scatter plot and a Y, Z plot.
 
 import matplotlib.pyplot as plt
 from matplotlib import rc
